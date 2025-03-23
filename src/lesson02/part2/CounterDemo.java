@@ -12,7 +12,7 @@ public class CounterDemo {
         thread1.start();
         thread2.start();
 
-       // Thread.sleep(0,100);// - не решение проблемы
+//        Thread.sleep(1);// - не решение проблемы
 
         thread1.join();
         thread2.join();

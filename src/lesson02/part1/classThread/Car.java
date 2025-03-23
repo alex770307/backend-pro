@@ -10,7 +10,7 @@ public class Car extends Thread{
     @Override
     public void run() {
         try {
-            Thread.sleep(2500);// "усыпим" наш поток на 1 сек (1000 миллисек) -
+            Thread.sleep(1000);// "усыпим" наш поток на 1 сек (1000 миллисек) -
             // временно остановим выполнение кода нашего потока
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
