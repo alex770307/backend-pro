@@ -4,30 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2290abfd-8829-44c0-aef4-a9c2513ad3f6" name="Changes" comment="4 commit">
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample1/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample1/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample1/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample1/MyMark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample1/MyMarkDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample1/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample2/JavaFileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample2/JavaFileInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample2/JaveFile1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/depricatedAnnotation/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/depricatedAnnotation/DeprecatedDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/depricatedAnnotation/DepricatedAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/depricatedAnnotation/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/mavenSystem/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/ReflectionApiInfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/ReflectionExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/example2/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/example2/MyClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/human/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/human/HumanReflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/human/HumanReflectionMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/human/HumanReflectionVariable.java" afterDir="false" />
+    <list default="true" id="2290abfd-8829-44c0-aef4-a9c2513ad3f6" name="Changes" comment="5 commit">
+      <change afterPath="$PROJECT_DIR$/src/consult_01/anonymousClasses/ErrorMonitoringModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/anonymousClasses/GeneralIndicatorsMonitoringModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/anonymousClasses/MonitoringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/anonymousClasses/MonitoringDemoAnonymousClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/anonymousClasses/MonitoringSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/anonymousClasses/SecurityMonitoringModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/functionalInterfaces/FuncInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/functionalInterfaces/Sintax.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/functionalInterfaces/StringLengthComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/functionalInterfaces/StringSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/functionalInterfaces/StringSortSpecialSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/innerClasses/BicycleInnerClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/innerClasses/BicycleInnerClassesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/innerClasses/nonInnerClasses/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/innerClasses/nonInnerClasses/BicycleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/innerClasses/nonInnerClasses/HandBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/innerClasses/nonInnerClasses/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/innerClasses/Вложенные классы.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/BinaryOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/CompareUserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/ConsumerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/FunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/PredicateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/StandardFunctionalInterfaceExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/StandartFunctionalInterface.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/SupplierExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/UnaryOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/UserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamAPI/Stream1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamAPI/Stream2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamAPI/Stream3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamPic/Java_Stream_api.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamPic/stream.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamPic/stream0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamPic/stream1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamPic/stream2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamPic/stream3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,91 +83,124 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArraySetExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BlockingQueueExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CallableExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CallableExample3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarAppWithRunnable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CollectionExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CollectionExample2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CommonApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConcurrentCollectionExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConcurrentHashMapExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CopyOnWriteArrayListExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountDownExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CounterDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CounterTester.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CyclingBarrierExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DaemonApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DeliveryExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DeprecatedDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExampleExchanger2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashMapExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorldApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HumanReflection.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HumanReflectionMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HumanReflectionVariable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InterruptExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaFileDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyClassExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyMarkDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyRunnableDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NonDaemonApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Race.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReflectionExample1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SemExample1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SemExample2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StoreApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SynchronizedExample1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TaskApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadExampleDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadRunnableDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WaitExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ex2_ThreadExample1Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ex3_ThreadExampleWithLambda.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ex5_MySecondThreadDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lesson_03.facultative.f03.code.part_02.executors.Example2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lesson_03.multiThread.part_01.CounterDemo.executor&quot;: &quot;Run&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/alex_/ProgCodes/BackEnd/IdeaProSpring/firstSpringProject&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.ArraySetExample.executor": "Run",
+    "Application.BicycleDemo.executor": "Run",
+    "Application.BicycleInnerClassesDemo.executor": "Run",
+    "Application.BlockingQueueExample.executor": "Run",
+    "Application.CallableExample.executor": "Run",
+    "Application.CallableExample3.executor": "Run",
+    "Application.CarApp.executor": "Run",
+    "Application.CarAppWithRunnable.executor": "Run",
+    "Application.CarDemo.executor": "Run",
+    "Application.CollectionExample.executor": "Run",
+    "Application.CollectionExample2.executor": "Run",
+    "Application.CommonApp.executor": "Run",
+    "Application.ConcurrentCollectionExample.executor": "Run",
+    "Application.ConcurrentHashMapExample.executor": "Run",
+    "Application.CopyOnWriteArrayListExample.executor": "Run",
+    "Application.CountDownExample.executor": "Run",
+    "Application.CounterDemo.executor": "Run",
+    "Application.CounterTester.executor": "Run",
+    "Application.CyclingBarrierExample.executor": "Run",
+    "Application.DaemonApp.executor": "Run",
+    "Application.DeliveryExample.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.DeprecatedDemo.executor": "Run",
+    "Application.Example1.executor": "Run",
+    "Application.Example2.executor": "Run",
+    "Application.Example3.executor": "Run",
+    "Application.Example4.executor": "Run",
+    "Application.Example5.executor": "Run",
+    "Application.Example6.executor": "Run",
+    "Application.Example7.executor": "Run",
+    "Application.ExampleExchanger2.executor": "Run",
+    "Application.HashMapExample.executor": "Run",
+    "Application.Hello.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.HelloWorldApp.executor": "Run",
+    "Application.HumanReflection.executor": "Run",
+    "Application.HumanReflectionMethods.executor": "Run",
+    "Application.HumanReflectionVariable.executor": "Run",
+    "Application.InterruptExample.executor": "Run",
+    "Application.JavaFileDemo.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MyClassExample.executor": "Run",
+    "Application.MyMarkDemo.executor": "Run",
+    "Application.MyRunnableDemo.executor": "Run",
+    "Application.NonDaemonApp.executor": "Run",
+    "Application.Race.executor": "Run",
+    "Application.ReflectionExample1.executor": "Run",
+    "Application.SemExample1.executor": "Run",
+    "Application.SemExample2.executor": "Run",
+    "Application.StoreApp.executor": "Run",
+    "Application.SynchronizedExample1.executor": "Run",
+    "Application.TaskApp.executor": "Run",
+    "Application.ThreadExampleDemo.executor": "Run",
+    "Application.ThreadRunnableDemo.executor": "Run",
+    "Application.WaitExample.executor": "Run",
+    "Application.ex2_ThreadExample1Demo.executor": "Run",
+    "Application.ex3_ThreadExampleWithLambda.executor": "Run",
+    "Application.ex5_MySecondThreadDemo.executor": "Run",
+    "Application.lesson_03.facultative.f03.code.part_02.executors.Example2.executor": "Run",
+    "Application.lesson_03.multiThread.part_01.CounterDemo.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alex_/ProgCodes/BackEnd/IdeaPro/backend-pro/src/consult_01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alex_\ProgCodes\BackEnd\IdeaPro\backend-pro\src\consult_01" />
+      <recent name="C:\Users\alex_\ProgCodes\BackEnd\IdeaPro\backend-pro\src\consult_01\innerClasses" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alex_\ProgCodes\BackEnd\IdeaPro\backend-pro\src\consult_01\innerClasses" />
       <recent name="C:\Users\alex_\ProgCodes\BackEnd\IdeaPro\backend-pro\src\lesson_03\facultative\f02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hello">
+  <component name="RunManager" selected="Application.BicycleInnerClassesDemo">
+    <configuration name="BicycleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="consult_01.innerClasses.nonInnerClasses.BicycleDemo" />
+      <module name="backend-pro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="consult_01.innerClasses.nonInnerClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BicycleInnerClassesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="consult_01.innerClasses.BicycleInnerClassesDemo" />
+      <module name="backend-pro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="consult_01.innerClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeprecatedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson_04.annotation.depricatedAnnotation.DeprecatedDemo" />
       <module name="backend-pro" />
@@ -179,19 +227,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HumanReflectionVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_04.reflection.human.HumanReflectionVariable" />
-      <module name="backend-pro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson_04.reflection.human.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="JavaFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson_04.annotation.annotationExample2.JavaFileDemo" />
       <module name="backend-pro" />
@@ -205,26 +240,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyMarkDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_04.annotation.annotationExample1.MyMarkDemo" />
-      <module name="backend-pro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson_04.annotation.annotationExample1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BicycleInnerClassesDemo" />
+        <item itemvalue="Application.BicycleDemo" />
         <item itemvalue="Application.Hello" />
         <item itemvalue="Application.DeprecatedDemo" />
         <item itemvalue="Application.JavaFileDemo" />
-        <item itemvalue="Application.MyMarkDemo" />
-        <item itemvalue="Application.HumanReflectionVariable" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742849115431</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="5 commit">
+      <option name="closed" value="true" />
+      <created>1743662380282</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743662380282</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +295,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="3 commit" />
     <MESSAGE value="4 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 commit" />
+    <MESSAGE value="5 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 commit" />
   </component>
 </project>
