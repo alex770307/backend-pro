@@ -4,167 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2290abfd-8829-44c0-aef4-a9c2513ad3f6" name="Changes" comment="3 commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_02/part3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_02/part3/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_02/part4/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f01/code/part_01/ex1_ThreadExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f01/code/part_01/ex2_ThreadExample1Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f01/code/part_01/ex3_ThreadExampleWithLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f01/code/part_01/ex4_MySecondThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f01/code/part_01/ex5_MySecondThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f01/code/part_02/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f01/code/part_02/MyRunnableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f01/code/part_03/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f01/code/part_03/CarApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f01/code/part_03/CarAppWithRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f01/code/part_03/CarWithRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_01/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_01/CounterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_01/CounterThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_02/DaemonApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_02/NonDaemonApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_03/interrupt/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_03/interrupt/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_03/interrupt/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_03/interrupt/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_03/interrupt/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_03/interrupt/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_03/interrupt/InterruptExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_03/sleep/HelloWorldApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_04/monotor/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_04/monotor/SynchronizedExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_04/synch/synchExample1/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_04/synch/synchExample1/CounterTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_04/synch/synchExample1/CounterThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_04/synch/synchExample1/SynchronizedExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_04/synch/synchExample2/CommonApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_04/synch/synchExample2/CommonResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_04/synch/synchExample2/CountThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_04/synch/synchExample3/HelloWorldApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_04/synch/synchExample3/SynhronizedEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_04/synch/synchExample4/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_04/synch/synchExample4/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_04/synch/synchExample4/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_04/synch/synchExample4/StoreApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/code/part_05/wait/WaitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/homework.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f02/theory.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_01/p1_semaphore/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_01/p1_semaphore/SemExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_01/p1_semaphore/SemExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_01/p2_countDown/countDown1/CountDownExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_01/p2_countDown/countDown2/Race.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_01/p2_countDown/countDown3/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_01/p2_countDown/countDown3/PersonInAirport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_01/p2_countDown/countDown3/PersonInAirport2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_01/p3_cyclingBarrer/CyclingBarrierExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_01/p3_cyclingBarrer/ExampleFunicular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_01/p4_exchanger/example1/DeliveryExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_01/p4_exchanger/example1/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_01/p4_exchanger/example2/ExampleExchanger2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_02/executors/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_02/executors/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_02/executors/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_02/executors/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_02/executors/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_03/ArraySetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_03/BlockingQueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_03/CollectionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_03/CollectionExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_03/ConcurrentCollectionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_03/ConcurrentHashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_03/CopyOnWriteArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_03/HashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_03/collections.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_04/callable/CallableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_04/callable/CallableExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/code/part_04/callable/CallableExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/facultative/f03/theory.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_01/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_01/CounterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_01/CounterThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_02/DaemonApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_02/NonDaemonApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_03/interrupt/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_03/interrupt/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_03/interrupt/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_03/interrupt/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_03/interrupt/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_03/interrupt/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_03/interrupt/InterruptExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_03/sleep/HelloWorldApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_04/monotor/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_04/monotor/SynchronizedExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_04/synch/synchExample1/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_04/synch/synchExample1/CounterTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_04/synch/synchExample1/CounterThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_04/synch/synchExample1/SynchronizedExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_04/synch/synchExample2/CommonApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_04/synch/synchExample2/CommonResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_04/synch/synchExample2/CountThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_04/synch/synchExample3/HelloWorldApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_04/synch/synchExample3/SynhronizedEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_04/synch/synchExample4/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_04/synch/synchExample4/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_04/synch/synchExample4/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_04/synch/synchExample4/StoreApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/multiThread/part_05/wait/WaitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/solid/dip/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/solid/dip/Freelancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/solid/dip/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/solid/dip/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/solid/lsp/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/solid/lsp/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_03/solid/lsp/Square.java" afterDir="false" />
+    <list default="true" id="2290abfd-8829-44c0-aef4-a9c2513ad3f6" name="Changes" comment="4 commit">
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample1/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample1/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample1/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample1/MyMark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample1/MyMarkDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample1/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample2/JavaFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample2/JavaFileInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/annotationExample2/JaveFile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/depricatedAnnotation/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/depricatedAnnotation/DeprecatedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/depricatedAnnotation/DepricatedAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/annotation/depricatedAnnotation/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/mavenSystem/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/ReflectionApiInfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/ReflectionExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/example2/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/example2/MyClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/human/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/human/HumanReflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/human/HumanReflectionMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/reflection/human/HumanReflectionVariable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework01/appStructureVar2/TaskApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_01/appStructureVar2/TaskApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework01/appStructureVar2/TaskDiscription.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_01/appStructureVar2/TaskDiscription.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework01/appStructureVar2/back/dto/DTOExplanation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_01/appStructureVar2/back/dto/DTOExplanation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework01/appStructureVar2/back/dto/RequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_01/appStructureVar2/back/dto/RequestDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework01/appStructureVar2/back/dto/ResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_01/appStructureVar2/back/dto/ResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework01/appStructureVar2/back/entity/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_01/appStructureVar2/back/entity/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework01/appStructureVar2/back/repository/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_01/appStructureVar2/back/repository/TaskRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework01/appStructureVar2/back/service/AddTaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_01/appStructureVar2/back/service/AddTaskService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework01/appStructureVar2/back/service/DeleteTaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_01/appStructureVar2/back/service/DeleteTaskService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework01/appStructureVar2/back/service/FindTaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_01/appStructureVar2/back/service/FindTaskService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework01/appStructureVar2/back/service/UpdateTaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_01/appStructureVar2/back/service/UpdateTaskService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework01/appStructureVar2/back/service/ValidationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_01/appStructureVar2/back/service/ValidationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework01/appStructureVar2/front/menu/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_01/appStructureVar2/front/menu/UserInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework01/appStructureVar2/front/menu/UserMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_01/appStructureVar2/front/menu/UserMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar1/TaskApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar1/TaskApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar1/TaskDiscription.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar1/TaskDiscription.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar1/back/entity/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar1/back/entity/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar1/back/repository/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar1/back/repository/TaskRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar1/back/service/AddTaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar1/back/service/AddTaskService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar1/back/service/FindTaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar1/back/service/FindTaskService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar1/front/menu/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar1/front/menu/UserInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar1/front/menu/UserMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar1/front/menu/UserMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar2/TaskApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar2/TaskApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar2/TaskDiscription.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar2/TaskDiscription.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar2/back/dto/DTOExplanation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar2/back/dto/DTOExplanation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar2/back/dto/RequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar2/back/dto/RequestDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar2/back/dto/ResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar2/back/dto/ResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar2/back/entity/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar2/back/entity/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar2/back/repository/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar2/back/repository/TaskRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar2/back/service/AddTaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar2/back/service/AddTaskService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar2/back/service/DeleteTaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar2/back/service/DeleteTaskService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar2/back/service/FindTaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar2/back/service/FindTaskService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar2/back/service/ValidationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar2/back/service/ValidationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar2/front/menu/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar2/front/menu/UserInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/appStructureVar2/front/menu/UserMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_01/appStructureVar2/front/menu/UserMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson02/part1/classThread/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_02/part1/classThread/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson02/part1/classThread/CarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_02/part1/classThread/CarDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson02/part1/classThread/ThreadExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_02/part1/classThread/ThreadExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson02/part1/classThread/ThreadExampleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_02/part1/classThread/ThreadExampleDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson02/part1/interfaceRunnable/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_02/part1/interfaceRunnable/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson02/part1/interfaceRunnable/CarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_02/part1/interfaceRunnable/CarDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson02/part1/interfaceRunnable/ThreadExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_02/part1/interfaceRunnable/ThreadExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson02/part1/interfaceRunnable/ThreadRunnableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_02/part1/interfaceRunnable/ThreadRunnableDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson02/part2/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_02/part2/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson02/part2/CounterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_02/part2/CounterDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson02/part2/CounterThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_02/part2/CounterThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +39,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -202,77 +68,97 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Application.ArraySetExample.executor": "Run",
-    "Application.BlockingQueueExample.executor": "Run",
-    "Application.CallableExample.executor": "Run",
-    "Application.CallableExample3.executor": "Run",
-    "Application.CarApp.executor": "Run",
-    "Application.CarAppWithRunnable.executor": "Run",
-    "Application.CarDemo.executor": "Run",
-    "Application.CollectionExample.executor": "Run",
-    "Application.CollectionExample2.executor": "Run",
-    "Application.CommonApp.executor": "Run",
-    "Application.ConcurrentCollectionExample.executor": "Run",
-    "Application.ConcurrentHashMapExample.executor": "Run",
-    "Application.CopyOnWriteArrayListExample.executor": "Run",
-    "Application.CountDownExample.executor": "Run",
-    "Application.CounterDemo.executor": "Run",
-    "Application.CounterTester.executor": "Run",
-    "Application.CyclingBarrierExample.executor": "Run",
-    "Application.DaemonApp.executor": "Run",
-    "Application.DeliveryExample.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.Example1.executor": "Run",
-    "Application.Example2.executor": "Run",
-    "Application.Example3.executor": "Run",
-    "Application.Example4.executor": "Run",
-    "Application.Example5.executor": "Run",
-    "Application.Example6.executor": "Run",
-    "Application.Example7.executor": "Run",
-    "Application.ExampleExchanger2.executor": "Run",
-    "Application.HashMapExample.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.HelloWorldApp.executor": "Run",
-    "Application.InterruptExample.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MyRunnableDemo.executor": "Run",
-    "Application.NonDaemonApp.executor": "Run",
-    "Application.Race.executor": "Run",
-    "Application.SemExample1.executor": "Run",
-    "Application.SemExample2.executor": "Run",
-    "Application.StoreApp.executor": "Run",
-    "Application.SynchronizedExample1.executor": "Run",
-    "Application.TaskApp.executor": "Run",
-    "Application.ThreadExampleDemo.executor": "Run",
-    "Application.ThreadRunnableDemo.executor": "Run",
-    "Application.WaitExample.executor": "Run",
-    "Application.ex2_ThreadExample1Demo.executor": "Run",
-    "Application.ex3_ThreadExampleWithLambda.executor": "Run",
-    "Application.ex5_MySecondThreadDemo.executor": "Run",
-    "Application.lesson_03.facultative.f03.code.part_02.executors.Example2.executor": "Run",
-    "Application.lesson_03.multiThread.part_01.CounterDemo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/alex_/ProgCodes/BackEnd/IdeaPro/back_end_pro_1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySetExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BlockingQueueExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CallableExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CallableExample3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarAppWithRunnable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionExample2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcurrentCollectionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcurrentHashMapExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyOnWriteArrayListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountDownExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CounterDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CounterTester.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CyclingBarrierExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DaemonApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeliveryExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeprecatedDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExampleExchanger2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMapExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorldApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HumanReflection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HumanReflectionMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HumanReflectionVariable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterruptExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaFileDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyClassExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyMarkDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyRunnableDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NonDaemonApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Race.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReflectionExample1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SemExample1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SemExample2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StoreApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SynchronizedExample1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaskApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadExampleDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadRunnableDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WaitExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex2_ThreadExample1Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex3_ThreadExampleWithLambda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex5_MySecondThreadDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lesson_03.facultative.f03.code.part_02.executors.Example2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lesson_03.multiThread.part_01.CounterDemo.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alex_/ProgCodes/BackEnd/IdeaProSpring/firstSpringProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alex_\ProgCodes\BackEnd\IdeaPro\backend-pro\src\lesson_03\facultative\f02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
-    <configuration name="CallableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_03.facultative.f03.code.part_04.callable.CallableExample" />
+  <component name="RunManager" selected="Application.Hello">
+    <configuration name="DeprecatedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_04.annotation.depricatedAnnotation.DeprecatedDemo" />
       <module name="backend-pro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_03.facultative.f03.code.part_04.callable.*" />
+          <option name="PATTERN" value="lesson_04.annotation.depricatedAnnotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallableExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_03.facultative.f03.code.part_04.callable.CallableExample3" />
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_04.mavenSystem.Hello" />
       <module name="backend-pro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_03.facultative.f03.code.part_04.callable.*" />
+          <option name="PATTERN" value="lesson_04.mavenSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyOnWriteArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_03.facultative.f03.code.part_03.CopyOnWriteArrayListExample" />
+    <configuration name="HumanReflectionVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_04.reflection.human.HumanReflectionVariable" />
       <module name="backend-pro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_03.facultative.f03.code.part_03.*" />
+          <option name="PATTERN" value="lesson_04.reflection.human.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_03.solid.lsp.Demo" />
+    <configuration name="JavaFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_04.annotation.annotationExample2.JavaFileDemo" />
       <module name="backend-pro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_03.solid.lsp.*" />
+          <option name="PATTERN" value="lesson_04.annotation.annotationExample2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_03.facultative.f03.code.part_03.HashMapExample" />
+    <configuration name="MyMarkDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_04.annotation.annotationExample1.MyMarkDemo" />
       <module name="backend-pro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_03.facultative.f03.code.part_03.*" />
+          <option name="PATTERN" value="lesson_04.annotation.annotationExample1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.CallableExample3" />
-        <item itemvalue="Application.CallableExample" />
-        <item itemvalue="Application.HashMapExample" />
-        <item itemvalue="Application.CopyOnWriteArrayListExample" />
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.DeprecatedDemo" />
+        <item itemvalue="Application.JavaFileDemo" />
+        <item itemvalue="Application.MyMarkDemo" />
+        <item itemvalue="Application.HumanReflectionVariable" />
       </list>
     </recent_temporary>
   </component>
@@ -350,6 +236,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742394419945</updated>
+      <workItem from="1743106194954" duration="34000" />
+      <workItem from="1743106276315" duration="943000" />
+      <workItem from="1743438707903" duration="151000" />
     </task>
     <task id="LOCAL-00001" summary="3 commit">
       <option name="closed" value="true" />
@@ -359,11 +248,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742743571403</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="4 commit">
+      <option name="closed" value="true" />
+      <created>1742849115431</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742849115431</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="3 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 commit" />
+    <MESSAGE value="4 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 commit" />
   </component>
 </project>
