@@ -1,7 +1,7 @@
 package consult_01.standartFunctionalInterfaces;
 
 
-import lesson_01.code.appStructureVar1.front.menu.UserInput;
+import lesson_01.appStructureVar1.front.menu.UserInput;
 
 import java.util.function.Supplier;
 

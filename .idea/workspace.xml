@@ -4,46 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2290abfd-8829-44c0-aef4-a9c2513ad3f6" name="Changes" comment="5 commit">
-      <change afterPath="$PROJECT_DIR$/src/consult_01/anonymousClasses/ErrorMonitoringModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/anonymousClasses/GeneralIndicatorsMonitoringModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/anonymousClasses/MonitoringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/anonymousClasses/MonitoringDemoAnonymousClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/anonymousClasses/MonitoringSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/anonymousClasses/SecurityMonitoringModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/functionalInterfaces/FuncInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/functionalInterfaces/Sintax.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/functionalInterfaces/StringLengthComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/functionalInterfaces/StringSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/functionalInterfaces/StringSortSpecialSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/innerClasses/BicycleInnerClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/innerClasses/BicycleInnerClassesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/innerClasses/nonInnerClasses/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/innerClasses/nonInnerClasses/BicycleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/innerClasses/nonInnerClasses/HandBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/innerClasses/nonInnerClasses/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/innerClasses/Вложенные классы.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/BinaryOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/CompareUserRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/ConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/FunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/PredicateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/StandardFunctionalInterfaceExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/StandartFunctionalInterface.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/SupplierExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/UnaryOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/UserRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamAPI/Stream1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamAPI/Stream2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamAPI/Stream3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamPic/Java_Stream_api.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamPic/stream.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamPic/stream0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamPic/stream1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamPic/stream2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consult_01/streamAPI/streamPic/stream3.png" afterDir="false" />
+    <list default="true" id="2290abfd-8829-44c0-aef4-a9c2513ad3f6" name="Changes" comment="6 commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/SupplierExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consult_01/standartFunctionalInterfaces/SupplierExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,6 +99,7 @@
     "Application.SemExample1.executor": "Run",
     "Application.SemExample2.executor": "Run",
     "Application.StoreApp.executor": "Run",
+    "Application.SupplierExample.executor": "Run",
     "Application.SynchronizedExample1.executor": "Run",
     "Application.TaskApp.executor": "Run",
     "Application.ThreadExampleDemo.executor": "Run",
@@ -174,7 +138,7 @@
       <recent name="C:\Users\alex_\ProgCodes\BackEnd\IdeaPro\backend-pro\src\lesson_03\facultative\f02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BicycleInnerClassesDemo">
+  <component name="RunManager" selected="Application.SupplierExample">
     <configuration name="BicycleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="consult_01.innerClasses.nonInnerClasses.BicycleDemo" />
       <module name="backend-pro" />
@@ -227,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_04.annotation.annotationExample2.JavaFileDemo" />
+    <configuration name="SupplierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="consult_01.standartFunctionalInterfaces.SupplierExample" />
       <module name="backend-pro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_04.annotation.annotationExample2.*" />
+          <option name="PATTERN" value="consult_01.standartFunctionalInterfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SupplierExample" />
         <item itemvalue="Application.BicycleInnerClassesDemo" />
         <item itemvalue="Application.BicycleDemo" />
         <item itemvalue="Application.Hello" />
         <item itemvalue="Application.DeprecatedDemo" />
-        <item itemvalue="Application.JavaFileDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743662380282</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="6 commit">
+      <option name="closed" value="true" />
+      <created>1743674756072</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743674756072</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,6 +268,7 @@
     <MESSAGE value="3 commit" />
     <MESSAGE value="4 commit" />
     <MESSAGE value="5 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 commit" />
+    <MESSAGE value="6 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 commit" />
   </component>
 </project>
